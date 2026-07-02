@@ -812,7 +812,3 @@ curl -X POST https://soroban-testnet.stellar.org \
 - [Rust Soroban SDK](https://docs.rs/soroban-sdk/latest/soroban_sdk/)
 
 ---
-
-**Last Updated:** March 29, 2026  
-**Version:** 1.0  
-**Maintainer:** SamyaDeb

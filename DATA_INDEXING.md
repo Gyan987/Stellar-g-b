@@ -354,6 +354,3 @@ const txHistory = await response.json();
 - [React Query Documentation](https://tanstack.com/query/latest)
 
 ---
-
-**Last Updated:** March 29, 2026  
-**Author:** SamyaDeb

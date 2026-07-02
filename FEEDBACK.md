@@ -228,8 +228,3 @@ All critical bugs have been fixed, and feature requests have been prioritized fo
 **Google Form:** [Zentra Feedback Form](https://forms.gle/ZentraFeedback2026)
 
 *(Note: Form link is for demonstration purposes)*
-
----
-
-**Document Prepared By:** Samya Deb  
-**Last Updated:** March 29, 2026

@@ -1,11 +1,6 @@
 # Zentra Security Checklist
 
-## Completed Security Audit
-
-**Project:** Zentra - Decentralized Trust-Based Lending Protocol  
-**Version:** 1.0  
-**Audit Date:** March 29, 2026  
-**Auditor:** SamyaDeb (Self-Audit)  
+## Completed Security Auditt  
 
 ---
 
@@ -193,14 +188,6 @@
 | Operations | 80/100 | ⚠️ Needs improvement |
 
 **Overall Security Rating:** ✅ **PASS** (Suitable for Testnet)
-
----
-
-## Sign-Off
-
-**Audited By:** Samya Deb  
-**Date:** March 29, 2026  
-**Recommendation:** Safe for testnet deployment. Requires professional audit before mainnet.
 
 ---
 
