@@ -7,7 +7,6 @@
 ![Zentra Badge](https://img.shields.io/badge/Track-Web3%20Credit-blue)
 ![Status](https://img.shields.io/badge/Status-Live%20MVP-green)
 ![Network](https://img.shields.io/badge/Network-Stellar%20Testnet-brightgreen)
-![CI/CD](https://github.com/SamyaDeb/Zentra/actions/workflows/ci.yml/badge.svg)
 ---
 
 ## Quick Links
@@ -180,7 +179,6 @@ Freighter Wallet Extension
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/SamyaDeb/Zentra.git
 cd Zentra/Zentra
 ```
 
