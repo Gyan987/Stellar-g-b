@@ -1,4 +1,4 @@
-name: CD - Deploy Contract and Frontend
+name: CD - Deploy Contract and Frontend 
 
 on:
   push:
