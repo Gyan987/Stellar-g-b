@@ -1,4 +1,4 @@
-'use client';
+'use client'; 
 
 import { useFreighterWallet } from '../src/hooks/useStellar';
 
