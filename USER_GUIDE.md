@@ -449,15 +449,6 @@ No, all loans have a fixed **7-day duration**. Plan your repayment accordingly.
 2. Look for a Freighter icon in browser toolbar (may need manual click)
 3. Ensure Freighter extension is active
 
----
-
-## Need More Help?
-
-- **GitHub Issues:** [Report bugs](https://github.com/SamyaDeb/Zentra/issues)
-- **Email Support:** sammodeb28@gmail.com
-- **Check Transactions:** [Stellar Expert Testnet](https://stellar.expert/explorer/testnet)
-
----
 
 ## Quick Reference Card
 
