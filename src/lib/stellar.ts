@@ -1,4 +1,5 @@
 /**
+ * 
  * Stellar Contract Client for Zentra TrustCircles
  *
  * This module provides functions to interact with the TrustCircles
