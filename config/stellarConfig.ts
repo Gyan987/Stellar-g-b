@@ -1,4 +1,4 @@
-/**
+/** 
  * Stellar Network Configuration for Zentra
  * 
  * Configures connection to Stellar Testnet for the TrustCircles contract.
